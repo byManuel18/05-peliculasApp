@@ -4,6 +4,7 @@ import { IonicModule } from '@ionic/angular';
 import { Tab3PageRoutingModule } from './tab3-routing.module';
 import { ComponentsModule } from 'src/app/components/components.module';
 import { Tab3Page } from './tab3.page';
+import { PipesModule } from 'src/app/pipes/pipes.module';
 
 
 
@@ -13,7 +14,8 @@ import { Tab3Page } from './tab3.page';
     CommonModule,
     IonicModule,
     Tab3PageRoutingModule,
-    ComponentsModule
+    ComponentsModule,
+    PipesModule
   ]
 })
 export class Tab3Module { }

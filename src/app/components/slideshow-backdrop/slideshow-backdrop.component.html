@@ -1,0 +1,23 @@
+<swiper-container #swiper (afterinit)="swiperReady()" [freeMode]="opciones.freeMode" [slidesPerView]="opciones.slidesPerView" [zoom]="false">
+  <swiper-slide *ngFor="let col of peliculas | divider:columns">
+    <ion-row>
+      <ion-col size="12" *ngFor="let peli of col">
+        <ion-card mode="md" [ngClass]="{'poster': imgType === 'poster_path'}" (click)="verDetalle(peli.id)">
+          <!-- <div class="swiper-zoom-container"> -->
+            <img [src]="peli[imgType] | image" >
+          <!-- </div> -->
+        </ion-card>
+      </ion-col>
+    </ion-row>
+  </swiper-slide>
+  <swiper-slide *ngIf="showMoreBtn" class="slide-mas">
+    <ion-button
+      expand="full"
+      size="large"
+      (click)="onClick($event)"
+      class="btn-mas"
+      >
+      <ion-icon slot="icon-only" name="add"></ion-icon>
+    </ion-button>
+  </swiper-slide>
+</swiper-container>

@@ -13,7 +13,7 @@ import { Tab1Page } from './tab1.page';
     CommonModule,
     IonicModule,
     Tab1PageRoutingModule,
-    ComponentsModule
-  ]
+    ComponentsModule,
+  ],
 })
 export class Tab1Module { }

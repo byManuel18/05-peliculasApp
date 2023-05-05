@@ -1,0 +1,400 @@
+{
+  "page": 1,
+  "results": [
+      {
+          "adult": false,
+          "backdrop_path": "/7dzngS8pLkGJpyeskCFcjPO9qLF.jpg",
+          "genre_ids": [
+              28,
+              53
+          ],
+          "id": 245891,
+          "original_language": "en",
+          "original_title": "John Wick",
+          "overview": "John Wick es un antiguo asesino a sueldo de Nueva York que se había retirado de la profesión después de perder a su esposa. Pero, al descubrir la oscura trama que la mafia había planeado para acabar con él, arrebatándole lo que más quería, volverá a introducirse en el negocio, esta vez por su cuenta, para vengarse.",
+          "popularity": 279.907,
+          "poster_path": "/mHJX5D5FKKoC0GWUAWFq2qJZrPv.jpg",
+          "release_date": "2014-10-22",
+          "title": "John Wick (Otro día para matar)",
+          "video": false,
+          "vote_average": 7.4,
+          "vote_count": 17190
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/kdbLf3aTQsEXqYlH9vA4fzmnSFz.jpg",
+          "genre_ids": [
+              10752,
+              18,
+              28
+          ],
+          "id": 228150,
+          "original_language": "en",
+          "original_title": "Fury",
+          "overview": "Abril de 1945. Al mando del veterano sargento Wardaddy, una brigada de cinco soldados americanos a bordo de un tanque -el Fury- ha de luchar contra un ejército nazi al borde de la desesperación, pues los alemanes saben que su derrota estaba ya cantada por aquel entonces.",
+          "popularity": 127.095,
+          "poster_path": "/kbtH5G8L8REzy72LkLmKYoBVaGv.jpg",
+          "release_date": "2014-10-15",
+          "title": "Corazones de acero",
+          "video": false,
+          "vote_average": 7.5,
+          "vote_count": 10693
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/9vAoubhoZE8aSkUZoSfxs3UWZhO.jpg",
+          "genre_ids": [
+              53,
+              28,
+              80
+          ],
+          "id": 156022,
+          "original_language": "en",
+          "original_title": "The Equalizer",
+          "overview": "Robert McCall, un antiguo agente de la CIA que lleva ahora una vida tranquila, abandona su retiro para ayudar a Teri, que está siendo explotada por la mafia rusa. A pesar de que aseguró no volver a ser violento, contemplar tanta crueldad despertará en Robert un implacable y renovado deseo de justicia.",
+          "popularity": 77.697,
+          "poster_path": "/6Hqn3WfEEdgQ5LW81XQiQUioD3q.jpg",
+          "release_date": "2014-09-24",
+          "title": "The equalizer (El protector)",
+          "video": false,
+          "vote_average": 7.2,
+          "vote_count": 7773
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/5h8VtV4oh2qkO8Iqz7gypIYJPAr.jpg",
+          "genre_ids": [
+              18,
+              10402
+          ],
+          "id": 244786,
+          "original_language": "en",
+          "original_title": "Whiplash",
+          "overview": "El objetivo de Andrew Neiman, un joven y ambicioso baterista de jazz, es triunfar en el elitista Conservatorio de Música de la Costa Este en el que estudia. Marcado por el fracaso de la carrera literaria de su padre, Andrew alberga sueños de grandeza. Terence Fletcher, un profesor conocido tanto por su talento como por sus rigurosos métodos de enseñanza, dirige el mejor conjunto de jazz del Conservatorio. Cuando Fletcher elige a Andrew y para formar parte del conjunto musical que dirige, cambia para siempre la vida del joven. La pasión de Andrew por alcanzar la perfección se convierte en obsesión, al tiempo que su despiadado profesor lo lleva al límite de su capacidad y de su salud mental.",
+          "popularity": 74.901,
+          "poster_path": "/sL32IZkyjlF7otj5vcUxiKSKzg5.jpg",
+          "release_date": "2014-10-10",
+          "title": "Whiplash. Música y obsesión",
+          "video": false,
+          "vote_average": 8.4,
+          "vote_count": 13360
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/h2JaQWLKhapm7AuSViJwGiv8ngC.jpg",
+          "genre_ids": [
+              9648,
+              53,
+              18
+          ],
+          "id": 210577,
+          "original_language": "en",
+          "original_title": "Gone Girl",
+          "overview": "El día de su quinto aniversario de boda, Nick Dunne informa de que su esposa Amy ha desaparecido misteriosamente. Pronto la presión policial y mediática hace que el retrato de felicidad doméstica que ofrece Nick empiece a tambalearse. Además, su extraña conducta lo convierte en sospechoso, y todo el mundo comienza a preguntase si Nick mató a su esposa...",
+          "popularity": 66.38,
+          "poster_path": "/bkIhygnbv9ydlDo4SEsOcqGgQD4.jpg",
+          "release_date": "2014-10-01",
+          "title": "Perdida",
+          "video": false,
+          "vote_average": 7.9,
+          "vote_count": 16863
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/2gKX53lskaCYk9ycXmaDJKqWiy.jpg",
+          "genre_ids": [
+              27
+          ],
+          "id": 250546,
+          "original_language": "en",
+          "original_title": "Annabelle",
+          "overview": "John Form encuentra el regalo perfecto para su mujer embarazada, Mia: una preciosa e inusual muñeca vintage que lleva un vestido de novia blanco inmaculado. Sin embargo, la alegría de Mia al recibir a Annabelle no dura mucho. Durante una espantosa noche la pareja ve como miembros de una secta satánica invaden su hogar y los atacan brutalmente. No sólo dejan sangre derramada y terror tras su visita…los miembros de la secta conjuran a un ente de tal maldad que nada de lo que han hecho se compara al siniestro camino a la maldición que ahora es… Annabelle.",
+          "popularity": 62.02,
+          "poster_path": "/4nAumGAoPq7Rn5sqRIzSaDySYxn.jpg",
+          "release_date": "2014-10-02",
+          "title": "Annabelle",
+          "video": false,
+          "vote_average": 5.7,
+          "vote_count": 5567
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/nlG452icactoT6hbqECbSEVfGII.jpg",
+          "genre_ids": [
+              16,
+              12,
+              35,
+              10751,
+              14
+          ],
+          "id": 228326,
+          "original_language": "en",
+          "original_title": "The Book of Life",
+          "overview": "La película cuenta el viaje de Manolo, un joven torero que se debate entre cumplir con las expectativas de su familia o seguir su corazón y dedicarse a su verdadera pasión: la música. Antes de escoger el camino que seguirá, emprende una aventura recorriendo tres mundos fantásticos, donde tendrá que superar sus peores miedos. Producida por Guillermo del Toro.",
+          "popularity": 61.053,
+          "poster_path": "/vUqYsOhwDAoFlN2hJktT0XoilXv.jpg",
+          "release_date": "2014-10-01",
+          "title": "El libro de la vida",
+          "video": false,
+          "vote_average": 7.5,
+          "vote_count": 2354
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/txDX7lBx8bBhF7dRCEfDYmAmdnk.jpg",
+          "genre_ids": [
+              35,
+              10749,
+              18
+          ],
+          "id": 200727,
+          "original_language": "en",
+          "original_title": "Love, Rosie",
+          "overview": "Rosie y Alex son los mejores amigos del mundo y viven en Dublín. Desde su infancia, habían confiado el uno en el otro y se habían contado sus secretos y confidencias. En su época del instituto, los dos hicieron planes para ir juntos a la universidad, pero Rosie, en una noche de pasión junto a uno de los chicos más populares del instituto, se queda embarazada. Y justo cuando se lo va a contar a Alex, éste le dice que le han admitido en Harvard en la facultad de medicina.",
+          "popularity": 48.292,
+          "poster_path": "/lMX7qZAcF54d0DB1Vto8gbWZlVU.jpg",
+          "release_date": "2014-10-16",
+          "title": "Los imprevistos del amor",
+          "video": false,
+          "vote_average": 7.8,
+          "vote_count": 5770
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/sMAv1YV6bCuy3lnzqXPdrCkIv7e.jpg",
+          "genre_ids": [
+              18,
+              12,
+              28
+          ],
+          "id": 302666,
+          "original_language": "en",
+          "original_title": "10.0 Earthquake",
+          "overview": "Una geóloga asegura que Los Ángeles está a punto de ser golpeada por un devastador terremoto de intensidad 10. El tiempo se acaba para salvar la ciudad del peligro inminente. (FILMAFFINITY)",
+          "popularity": 41.744,
+          "poster_path": "/7aLpY010Xntkn7WC6FgeMTcZoNL.jpg",
+          "release_date": "2014-10-15",
+          "title": "10.0 Terremoto en Los Angeles",
+          "video": false,
+          "vote_average": 5,
+          "vote_count": 103
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/mRNU6WHEFqoF9RSVo8o0lpprWil.jpg",
+          "genre_ids": [
+              53,
+              28,
+              878
+          ],
+          "id": 218043,
+          "original_language": "en",
+          "original_title": "Left Behind",
+          "overview": "En un abrir y cerrar de ojos, un rapto bíblico azota el mundo. Millones de personas desaparecen sin dejar rastro. Todo lo que queda es su ropa y sus pertenencias, y en un instante, el terror y el caos invade a la humanidad.",
+          "popularity": 41.222,
+          "poster_path": "/d2OrXUnS5K2haCvtGLHxYjuSlDJ.jpg",
+          "release_date": "2014-10-03",
+          "title": "Desaparecidos sin rastro",
+          "video": false,
+          "vote_average": 4.2,
+          "vote_count": 1155
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/keEWjA5ykLJo851tIBFdmkxPxxh.jpg",
+          "genre_ids": [
+              27,
+              9648
+          ],
+          "id": 270303,
+          "original_language": "en",
+          "original_title": "It Follows",
+          "overview": "Jay, de 18 años, tiene su primer encuentro sexual con su novio en la parte trasera del coche. Tras el hecho, aparentemente inocente, la situación se pone algo tensa cuando su novio hace que ella se desmaye aplicándole cloroformo.  Al despertar, el novio le explica que lo hizo para ahuyentar a una serie de espíritus que lo acosan. A partir de ese momento, es Jay quien sufrirá las consecuencias de ese acoso, encontrándose sumergida en visiones y pesadillas; teniendo la sensación de que alguien o algo la observa.",
+          "popularity": 41.221,
+          "poster_path": "/r0G73SD2Ij0BQGgKqkjjO6Mx4wn.jpg",
+          "release_date": "2014-09-24",
+          "title": "It Follows",
+          "video": false,
+          "vote_average": 6.6,
+          "vote_count": 5715
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/ffc8RVgAWdm3qNtJ5Eq9RKck9Ft.jpg",
+          "genre_ids": [
+              28,
+              12,
+              14,
+              10770
+          ],
+          "id": 317960,
+          "original_language": "en",
+          "original_title": "Viking Quest",
+          "overview": "Erick, un joven guerrero vikingo, une fuerzas con un clan rival con el fin de rescatar a una princesa secuestrada por la gran serpiente de Midgard. Una hazaña peligrosa con un gran riesgo para sus vidas, ya que podrían causar el fin del mundo.",
+          "popularity": 37.077,
+          "poster_path": "/grma5z8uPKan8IR4DdtXm1g2BWz.jpg",
+          "release_date": "2014-10-07",
+          "title": "La aventura de los vikingos",
+          "video": false,
+          "vote_average": 4.5,
+          "vote_count": 30
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/isrro0soStk2tSWMsI50lPPhUsU.jpg",
+          "genre_ids": [
+              80,
+              18,
+              9648,
+              53
+          ],
+          "id": 169917,
+          "original_language": "en",
+          "original_title": "A Walk Among the Tombstones",
+          "overview": "Matt Scudder, un expolicía de Nueva York, trabaja como detective privado a pesar de que no tiene licencia. Cuando accede a regañadientes a ayudar a un traficante de heroína a cazar a los hombres que secuestraron y asesinaron brutalmente a su esposa, descubre que no es la primera vez que esos hombres han cometido este tipo de crímenes. Entonces decide recorrer las calles de Nueva York para detener a los asesinos antes de que vuelvan a matar.",
+          "popularity": 37.007,
+          "poster_path": "/nb0L57p0r25ehV46trx86537ByP.jpg",
+          "release_date": "2014-09-18",
+          "title": "Caminando entre las tumbas",
+          "video": false,
+          "vote_average": 6.3,
+          "vote_count": 2550
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/zY75ms36ypIQxFAFLtoYfNFuSD7.jpg",
+          "genre_ids": [
+              35,
+              10749
+          ],
+          "id": 277547,
+          "original_language": "en",
+          "original_title": "Playing It Cool",
+          "overview": "Un guionista está intentando escribir una película romántica, pero el primer obstáculo con el que se topa es que él no cree en el amor. Sin embargo, todo cambia cuando conoce a una mujer de la que rápidamente se enamora. Sólo hay un problema: ella está comprometida.",
+          "popularity": 33.454,
+          "poster_path": "/vHz3HzKooEjuaXdBsGdQR0oLmJh.jpg",
+          "release_date": "2014-09-26",
+          "title": "Déjate querer",
+          "video": false,
+          "vote_average": 5.9,
+          "vote_count": 674
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/8nLxekHFuZfewaHGoVKYqbv8Njk.jpg",
+          "genre_ids": [
+              18,
+              35
+          ],
+          "id": 194662,
+          "original_language": "en",
+          "original_title": "Birdman or (The Unexpected Virtue of Ignorance)",
+          "overview": "Después de hacerse famoso interpretando a un célebre superhéroe, un actor trata de darle un nuevo rumbo a su vida, recuperando a su familia y preparándose para el estreno de una obra teatral en Broadway.",
+          "popularity": 33.367,
+          "poster_path": "/8FC3R7ElysTIze9ooCYZnb6TR22.jpg",
+          "release_date": "2014-10-17",
+          "title": "Birdman o (la inesperada virtud de la ignorancia)",
+          "video": false,
+          "vote_average": 7.5,
+          "vote_count": 11883
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/sETF4vyjb0FonUJVqgrkaPWqiIf.jpg",
+          "genre_ids": [
+              28
+          ],
+          "id": 289720,
+          "original_language": "en",
+          "original_title": "Outcast",
+          "overview": "Aventura romántica épica que traslada la historia a China en pleno siglo XII, donde un legendario guerrero ha decidido purificar su alma y enmendar sus pecados. En el camino en busca de la redención, se cruzará con una princesa en apuros que le ofrecerá la oportunidad de liberarse de su carga a cambio de su ayuda. El misterioso caballero emprenderá una misión suicida para plantarle cara al terrorífico y sanguinario hijo del emperador, causante de toda la muerte y el miedo que reina en la población. Brujería, amor y mucha acción, son los ingredientes de esta historia fantástica protagonizada por Hayden Christensen (Star Wars: Episodio VI - El retorno del Jedi, Aprendiz de caballero) y Nicolas Cage (Kick-Ass, La búsqueda: El diario secreto).",
+          "popularity": 32.22,
+          "poster_path": "/XTJSw6Tdy9RCSsaFrNHfuhWvvC.jpg",
+          "release_date": "2014-09-26",
+          "title": "Desterrado",
+          "video": false,
+          "vote_average": 5.1,
+          "vote_count": 419
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/f02FFv77Rh62633YEjimv7C6JM3.jpg",
+          "genre_ids": [
+              27,
+              28,
+              18,
+              14,
+              10752
+          ],
+          "id": 49017,
+          "original_language": "en",
+          "original_title": "Dracula Untold",
+          "overview": "Los orígenes del mito se revelan en esta película ambientada en los años de reinado de Vlad Tepes, príncipe de Rumania que inspiró la leyenda por sus peculiares métodos para provocar el miedo entre su población y sus enemigos. Una mezcla de mitología e historia para recoger cómo se transformó el sanguinario emperador en el primer vampiro de la historia. Uno de los más terribles y sádicos personajes de Europa que inspiró la clásica obra literaria de Bram Stoker mezclando el terror sobrenatural, las leyendas y pinceladas de amor, para cautivar por completo.",
+          "popularity": 31.797,
+          "poster_path": "/bDtez5W2CtIN7HqQNLWKzY60yE4.jpg",
+          "release_date": "2014-10-01",
+          "title": "Drácula, la leyenda jamás contada",
+          "video": false,
+          "vote_average": 6.4,
+          "vote_count": 5550
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/iTc8GzE4I4v9NLtEQ7ZaUvIj272.jpg",
+          "genre_ids": [
+              53
+          ],
+          "id": 284427,
+          "original_language": "de",
+          "original_title": "Who Am I - Kein System ist sicher",
+          "overview": "Benjamin, un joven alemán genio de las computadoras, se une a un grupo de hackers subversivo que quiere hacerse notar en el escenario del mundo.",
+          "popularity": 31.328,
+          "poster_path": "/hdCt77CmKXe1oLJ2vH1UtNRa4XH.jpg",
+          "release_date": "2014-09-25",
+          "title": "Who Am I: Ningún sistema es seguro",
+          "video": false,
+          "vote_average": 7.6,
+          "vote_count": 1340
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/4wOoxLEvVkSFZX4lrWxokE8d3zT.jpg",
+          "genre_ids": [
+              27,
+              28,
+              35
+          ],
+          "id": 254474,
+          "original_language": "en",
+          "original_title": "Zombeavers",
+          "overview": "Un grupo de jóvenes pretende pasar un fin de semana de diversión, alcohol y sexo. Sin embargo, su plan de diversión se truncará al cruzarse en su camino un grupo de castores zombis que tratará de acabar con ellos.",
+          "popularity": 30.575,
+          "poster_path": "/vrL2zGH7IWpSQhfAZJCa8mCh62D.jpg",
+          "release_date": "2014-10-20",
+          "title": "Zombeavers (Castores zombies)",
+          "video": false,
+          "vote_average": 4.9,
+          "vote_count": 606
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/K8dDF9Pxoqg1UECpR5gHYcXa0Q.jpg",
+          "genre_ids": [
+              53
+          ],
+          "id": 72784,
+          "original_language": "en",
+          "original_title": "The Loft",
+          "overview": "Cinco hombres comparten en secreto un apartamento donde poder escaparse con sus amantes, donde relajarse o simplemente evadirse de la rutina. Hasta que un día aparece el cuerpo de una mujer asesinada en el apartamento y empieza un juego de sospechas entre ellos para intentar descubrir quién es el culpable y ver cómo se las arreglan para que todo el asunto no salga a la luz... Remake de la propia película de Erik Van Looy realizada en 2008.",
+          "popularity": 29.05,
+          "poster_path": "/tNG9zsB29ZjL3NDlofGr49q2El0.jpg",
+          "release_date": "2014-10-14",
+          "title": "El Loft",
+          "video": false,
+          "vote_average": 6.4,
+          "vote_count": 1310
+      }
+  ],
+  "total_pages": 128,
+  "total_results": 2543
+}
